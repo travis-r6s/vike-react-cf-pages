@@ -16,6 +16,9 @@ devDependencies:
   '@antfu/eslint-config':
     specifier: ^2.6.2
     version: 2.6.2(@vue/compiler-sfc@3.4.5)(eslint-plugin-react-hooks@4.6.0)(eslint-plugin-react-refresh@0.4.5)(eslint-plugin-react@7.33.2)(eslint@8.56.0)(typescript@5.3.3)
+  '@cloudflare/workers-types':
+    specifier: ^4.20231218.0
+    version: 4.20231218.0
   '@types/node':
     specifier: ^20.10.7
     version: 20.10.7
@@ -401,6 +404,10 @@ packages:
     resolution: {integrity: sha512-JDWFZOsSJfDo9511r7OJDeNON7x5mwIGNZCi1DQWaVuYK2cs9J/eD3Jwypg4M1ex9iAb/WvI+aSAEfsVGmNeMQ==}
     dependencies:
       '@brillout/import': 0.2.3
+    dev: true
+
+  /@cloudflare/workers-types@4.20231218.0:
+    resolution: {integrity: sha512-Vs1FKjfUjXYGbCsXzkl+ITp0Iyb6QiW6+vTERTNThC+v96T0IvPVAioH4tT20rXwoxAfxh380mAaxYtTrJUNVg==}
     dev: true
 
   /@es-joy/jsdoccomment@0.41.0:

@@ -9,7 +9,7 @@
     "paths": {
       "#/*": ["./*"]
     },
-    "types": ["vite/client", "./auto-imports.d.ts"],
+    "types": ["vite/client", "./auto-imports.d.ts", "@cloudflare/workers-types"],
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true

@@ -1,0 +1,6 @@
+name = "vike-react-cf-pages"
+vars = { ENVIRONMENT = "development" }
+compatibility_date = "2023-12-19"
+
+[env.production]
+vars = { ENVIRONMENT = "production" }

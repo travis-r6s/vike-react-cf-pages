@@ -5,5 +5,6 @@ export default antfu({
   react: true,
   rules: {
     'react/prop-types': 'off',
+    'curly': ['error', 'multi-line'],
   },
 })
