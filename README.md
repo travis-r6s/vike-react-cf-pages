@@ -1,4 +1,4 @@
-# Vike-React + Cloudflare Pages
+# vike-react + Cloudflare Pages Demo
 
 [View Demo](https://vike-react-cf-pages.pages.dev)
 
