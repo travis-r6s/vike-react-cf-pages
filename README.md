@@ -1,6 +1,9 @@
 # Vike-React + Cloudflare Pages
 
+[View Demo](https://vike-react-cf-pages.pages.dev)
+
 This is an example to show how `vike-react` and Cloudflare Pages can be used to quickly setup and host a React SSR website.
+
 
 ### Development
 
